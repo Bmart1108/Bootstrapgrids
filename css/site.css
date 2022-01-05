@@ -26,3 +26,7 @@
            color: rgb(247, 247, 7);
 
        }
+
+       .minHeight{
+           min-height: 80vh;
+       }
