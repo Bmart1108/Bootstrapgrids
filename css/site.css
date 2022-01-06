@@ -38,3 +38,18 @@
  .minHeight {
      min-height: 80vh;
  }
+
+ .titleTextTwo{
+     font-family: 'Londrina Shadow', cursive;
+     font-size: 2em;
+     text-transform: uppercase;
+     color: yellowgreen;
+ }
+
+ .fontColor{
+     font-family: 'Lindrina Shadow', cursive;
+     font-size:  1em;
+     text-transform: initial;
+     color: yellow
+
+ }
